@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|c:\\users\\diego\\source\\repos\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|c:\\users\\diego\\source\\repos\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|c:\\users\\diego\\source\\repos\\mvcmovie\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7BD79AF-AA6B-4B51-8D26-FDF32AD095AC}|MvcMovie.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,28 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:35:55.757Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T18:27:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
               "ToolTip": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "Controllers\\HelloWorldController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T01:21:53.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\MvcMovie\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
