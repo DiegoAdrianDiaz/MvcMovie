@@ -9,6 +9,7 @@ namespace MvcMovie.Controllers
         public string Index()
         {
             return "This is my default action...";
+
         }
 
         public string Welcome(string name, int ID = 1)
